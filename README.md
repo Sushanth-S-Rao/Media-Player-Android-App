@@ -1,2 +1,8 @@
-# MediaPlayer-Android-Studio
-The purpose of this project is to develop an android application which can play the mainstream mp3 file format. Another objective is to learn about the MediaPlayer class in Android
+# Media Player Android App
+
+# Description
+Android application which can play the audio in the MPEG Audio Layer 3 files. The music can be controlled with the functionalities provided to Play, Pause and Stop the music playback
+
+# Technology Stack
+Language: Kotlin  
+IDE: Android Studio
